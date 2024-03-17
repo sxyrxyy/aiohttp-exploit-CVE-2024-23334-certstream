@@ -1,0 +1,13 @@
+anyio
+certifi
+certstream
+charset-normalizer
+h11
+httpcore
+httpx
+idna
+requests
+sniffio
+termcolor
+urllib3
+websocket-client
