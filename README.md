@@ -1,0 +1,4 @@
+- **Collect domains from `certstream.calidog.io`.**
+- **Check for `Python aiohttp` in the response headers.**
+- **Attempt to exploit CVE-2024-23334**
+- **Successful attempts sent to discord via webhook.**
